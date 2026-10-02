@@ -15,3 +15,19 @@ What SIEM is and how it is used for security monitoring
 Continued working on my cybersecurity home lab
 
 A good first day and the beginning of documenting my cybersecurity learning journey.
+
+
+# Day 2 — October 2, 2026
+
+
+## Today I learned about:
+
+Different SOC tiers and their responsibilities
+
+Specialized roles within a SOC team
+
+SOC documentation and procedures
+
+How organizations choose different security approaches based on their needs
+
+Continued working on my home lab
