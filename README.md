@@ -31,3 +31,21 @@ SOC documentation and procedures
 How organizations choose different security approaches based on their needs
 
 Continued working on my home lab
+
+
+# Day 3 — October 3, 2026
+
+
+## Today I learned about:
+
+Cybersecurity certifications for professionals and organizations
+
+How certifications are obtained and who issues them
+
+Cybersecurity laws and regulations
+
+Data protection requirements
+
+Security standards and compliance
+
+Continued working on my cybersecurity home lab
