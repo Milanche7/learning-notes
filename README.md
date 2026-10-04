@@ -49,3 +49,21 @@ Data protection requirements
 Security standards and compliance
 
 Continued working on my cybersecurity home lab
+
+
+# Day 4 — October 4, 2026
+
+
+## Today I learned about:
+
+Security controls and how they are assessed
+
+Verifying that security systems and controls work as intended
+
+Record integrity and protecting records from unauthorized changes
+
+Keeping security information accurate and consistent
+
+How to choose cybersecurity certifications based on career goals
+
+Different certifications available for cybersecurity professionals
