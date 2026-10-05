@@ -67,3 +67,25 @@ Keeping security information accurate and consistent
 How to choose cybersecurity certifications based on career goals
 
 Different certifications available for cybersecurity professionals
+
+
+# Day 5 — October 5, 2026
+
+
+## Today I learned about:
+
+The security control testing process
+
+Defining control objectives
+
+Reviewing control design
+
+Defining the testing population
+
+Selecting samples
+
+Collecting and reviewing evidence
+
+Evaluating whether controls work as intended
+
+Attended an online class covering the cybersecurity topics from this week
