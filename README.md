@@ -89,3 +89,23 @@ Collecting and reviewing evidence
 Evaluating whether controls work as intended
 
 Attended an online class covering the cybersecurity topics from this week
+
+
+# Day 6 — October 6, 2026
+
+
+## Today I learned about:
+
+Measuring information security effectiveness
+
+MTTA, MTTD, MTTR, and MTTC
+
+KPI, KRI, and KCI security metrics
+
+Defining and measuring security performance
+
+Identifying and evaluating cybersecurity risks
+
+Calculating risk based on likelihood and impact
+
+Using risk scales to compare and prioritize risks
