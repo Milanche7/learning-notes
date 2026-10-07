@@ -109,3 +109,21 @@ Identifying and evaluating cybersecurity risks
 Calculating risk based on likelihood and impact
 
 Using risk scales to compare and prioritize risks
+
+
+# Day 7 — October 7, 2026
+
+
+## Today I learned about:
+
+What cybersecurity protects and why it is important
+
+Different types of cyberattacks and threats
+
+The role of cybersecurity within an organization
+
+Practical risk assessment and calculation
+
+How to prioritize risks and decide where to start
+
+The basics of writing security reports
