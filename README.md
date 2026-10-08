@@ -127,3 +127,19 @@ Practical risk assessment and calculation
 How to prioritize risks and decide where to start
 
 The basics of writing security reports
+
+
+# Day 8 — October 8, 2026
+
+
+## Today I learned about:
+
+Social engineering and common attack techniques
+
+How attackers manipulate employees to gain access to organizations
+
+The human factor in cybersecurity
+
+The CIA Triad: Confidentiality, Integrity, and Availability
+
+Why the CIA Triad is important for protecting information and systems
