@@ -143,3 +143,25 @@ The human factor in cybersecurity
 The CIA Triad: Confidentiality, Integrity, and Availability
 
 Why the CIA Triad is important for protecting information and systems
+
+
+# Day 9 — October 9, 2026
+
+
+## Today I learned about:
+
+Different types of malware and how they operate
+
+Famous cybersecurity incidents and their impact
+
+How system and application vulnerabilities arise
+
+Vulnerability identification and severity ratings (CVE & CVSS)
+
+Zero-day vulnerabilities and exploits
+
+SQL Injection and common web application attacks
+
+Remote Code Execution (RCE)
+
+    Distributed Denial-of-Service (DDoS) attacks
