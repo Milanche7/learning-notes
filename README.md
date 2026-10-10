@@ -165,3 +165,19 @@ SQL Injection and common web application attacks
 Remote Code Execution (RCE)
 
 Distributed Denial-of-Service (DDoS) attacks
+
+
+# Day 10 — October 10, 2026
+
+
+## Today I focused on:
+
+Testing my knowledge of GRC & Security Fundamentals
+
+Reviewing SOC & Security Monitoring concepts
+
+Identifying areas that need further study
+
+Continuing work on my Proxmox cybersecurity home lab
+
+Adding Wazuh for SIEM and security monitoring practice
