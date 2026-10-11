@@ -181,3 +181,19 @@ Identifying areas that need further study
 Continuing work on my Proxmox cybersecurity home lab
 
 Adding Wazuh for SIEM and security monitoring practice
+
+
+# Day 11 — October 11, 2026
+
+
+## Today I focused on:
+
+Completing practice tests for "From Rules to Records"
+
+Testing my knowledge of "Who Protects the Organization?"
+
+Reviewing security controls, documentation, and organizational security concepts
+
+Reinforcing previously learned cybersecurity fundamentals
+
+Continuing work on my Proxmox cybersecurity home lab
