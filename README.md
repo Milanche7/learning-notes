@@ -197,3 +197,19 @@ Reviewing security controls, documentation, and organizational security concepts
 Reinforcing previously learned cybersecurity fundamentals
 
 Continuing work on my Proxmox cybersecurity home lab
+
+
+# Day 12 — October 12, 2026
+
+
+## Today I focused on:
+
+Attending my second online cybersecurity class
+
+Discussing and reviewing topics from the second course module
+
+Completing practice tests for "When Security Becomes a Requirement"
+
+Reinforcing previously learned cybersecurity concepts
+
+Taking a lighter study day to rest and recharge
