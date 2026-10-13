@@ -213,3 +213,19 @@ Completing practice tests for "When Security Becomes a Requirement"
 Reinforcing previously learned cybersecurity concepts
 
 Taking a lighter study day to rest and recharge
+
+
+# Day 13 — October 13, 2026
+
+
+## Today I focused on:
+
+Completing practice tests for "Certifying Security Skills"
+
+Testing my knowledge of "Proving Organizational Security"
+
+Reviewing professional and organizational cybersecurity certifications
+
+Reinforcing security standards and compliance concepts
+
+Continuing work on my Proxmox cybersecurity home lab
