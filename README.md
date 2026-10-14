@@ -229,3 +229,19 @@ Reviewing professional and organizational cybersecurity certifications
 Reinforcing security standards and compliance concepts
 
 Continuing work on my Proxmox cybersecurity home lab
+
+
+# Day 14 — October 14, 2026
+
+
+## Today I focused on:
+
+Completing practice tests for "Security Control in Practice"
+
+Testing my knowledge of "Trust, but Verify"
+
+Reviewing security controls and their effectiveness
+
+Reinforcing control testing and security assessment concepts
+
+Continuing work on my Proxmox cybersecurity home lab
