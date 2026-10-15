@@ -245,3 +245,21 @@ Reviewing security controls and their effectiveness
 Reinforcing control testing and security assessment concepts
 
 Continuing work on my Proxmox cybersecurity home lab
+
+
+# Day 15 — October 15, 2026
+
+
+## Today I focused on:
+
+Completing practice tests for "Know Your Risks – The Risk Register"
+
+Testing my knowledge of "Measuring Security Effectiveness"
+
+Reviewing risk identification, assessment, and prioritization
+
+Reinforcing security metrics and performance measurement concepts
+
+Continuing work on my Proxmox cybersecurity home lab
+
+Practicing cybersecurity skills through a TryHackMe challenge
