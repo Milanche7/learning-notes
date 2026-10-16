@@ -263,3 +263,21 @@ Reinforcing security metrics and performance measurement concepts
 Continuing work on my Proxmox cybersecurity home lab
 
 Practicing cybersecurity skills through a TryHackMe challenge
+
+
+# Day 16 — October 16, 2026
+
+
+## Today I focused on:
+
+Completing practice tests for "Inside Cybersecurity"
+
+Testing my knowledge of "Risk in Practice: From Analysis to Action"
+
+Reviewing cybersecurity fundamentals and practical risk management
+
+Continuing work on my Proxmox cybersecurity home lab
+
+Preparing to document my home lab once it is complete
+
+Practicing cybersecurity skills through TryHackMe rooms
