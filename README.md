@@ -281,3 +281,21 @@ Continuing work on my Proxmox cybersecurity home lab
 Preparing to document my home lab once it is complete
 
 Practicing cybersecurity skills through TryHackMe rooms
+
+
+# Day 17 — October 17, 2026
+
+
+## Today I focused on:
+
+Completing practice tests for "The Human Target"
+
+Testing my knowledge of "Think Like a Defender"
+
+Reviewing social engineering and defensive security concepts
+
+Practicing cybersecurity skills through TryHackMe rooms
+
+Continuing work on my Proxmox cybersecurity home lab
+
+Key takeaway: I realized that I don't need to know everything immediately. My priority is to build strong cybersecurity fundamentals, and more advanced knowledge will come with time and practice.
