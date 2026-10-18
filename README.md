@@ -299,3 +299,21 @@ Practicing cybersecurity skills through TryHackMe rooms
 Continuing work on my Proxmox cybersecurity home lab
 
 Key takeaway: I realized that I don't need to know everything immediately. My priority is to build strong cybersecurity fundamentals, and more advanced knowledge will come with time and practice.
+
+
+# Day 18 — October 18, 2026
+
+
+## Today I focused on:
+
+Completing practice tests for "Breaking the System"
+
+Testing my knowledge of "When Software Becomes the Weapon"
+
+Reviewing system vulnerabilities and exploitation concepts
+
+Reinforcing my understanding of malware and its different types
+
+Continuing work on my Proxmox cybersecurity home lab
+
+Practicing cybersecurity skills through TryHackMe rooms
