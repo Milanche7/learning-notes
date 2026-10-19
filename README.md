@@ -317,3 +317,25 @@ Reinforcing my understanding of malware and its different types
 Continuing work on my Proxmox cybersecurity home lab
 
 Practicing cybersecurity skills through TryHackMe rooms
+
+
+# Day 19 — October 19, 2026
+
+
+## Today I focused on:
+
+Continuing work on my Proxmox cybersecurity home lab
+
+Practicing cybersecurity skills through TryHackMe rooms
+
+Attending my third online cybersecurity class
+
+Reviewing topics from Module 3, including:
+
+    Cybersecurity fundamentals and the CIA Triad
+
+    Social engineering and human-related threats
+
+    System vulnerabilities and common attack techniques
+
+    Malware and defensive security concepts
