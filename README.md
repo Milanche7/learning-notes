@@ -339,3 +339,21 @@ Reviewing topics from Module 3, including:
     System vulnerabilities and common attack techniques
 
     Malware and defensive security concepts
+    
+
+# Day 20 — October 20, 2026
+
+
+## Today I focused on:
+
+Working on my Cybersecurity Risk Assessment assignment
+
+Identifying and analyzing potential cybersecurity risks
+
+Evaluating risk likelihood and impact
+
+Prioritizing risks based on their severity
+
+Working on risk treatment strategies and security recommendations
+    
+Preparing to publish the completed project on GitHub soon
