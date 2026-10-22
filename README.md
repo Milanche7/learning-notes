@@ -375,3 +375,19 @@ Evaluating security controls and risk mitigation strategies
 Continuing work on my Proxmox cybersecurity home lab
 
 Preparing detailed documentation of my Risk Assessment project for publication on GitHub tomorrow
+
+
+# Day 22 — October 22, 2026
+
+
+## Today I focused on:
+
+Continuing the configuration and development of my Proxmox cybersecurity home lab
+
+Preparing the environment for realistic attack and defense simulations
+
+Learning more about OSINT through a cybersecurity podcast
+
+Practicing cybersecurity skills through TryHackMe rooms
+
+Getting closer to completing my home lab setup
