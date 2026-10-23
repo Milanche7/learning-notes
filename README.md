@@ -391,3 +391,21 @@ Learning more about OSINT through a cybersecurity podcast
 Practicing cybersecurity skills through TryHackMe rooms
 
 Getting closer to completing my home lab setup
+
+
+# Day 23 — October 23, 2026
+
+
+## Today I accomplished:
+
+Successfully completed my Proxmox-based cybersecurity home lab
+
+Prepared the lab for practical attack and defense simulations
+
+Published Assignment 01 — Cybersecurity Risk Assessment and Analysis on GitHub
+
+Configured my Parrot OS laptop for TryHackMe practice
+
+Reached an important milestone in my hands-on cybersecurity learning journey
+
+Key takeaway: After weeks of building and troubleshooting my home lab, I can finally focus on practicing offensive and defensive security techniques in a controlled environment.
