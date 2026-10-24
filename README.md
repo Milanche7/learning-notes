@@ -409,3 +409,22 @@ Configured my Parrot OS laptop for TryHackMe practice
 Reached an important milestone in my hands-on cybersecurity learning journey
 
 Key takeaway: After weeks of building and troubleshooting my home lab, I can finally focus on practicing offensive and defensive security techniques in a controlled environment.
+
+
+Day 24 — October 24, 2026
+
+
+Focus: TryHackMe Practice, Home Lab Documentation & GitHub
+
+Continued hands-on cybersecurity practice through TryHackMe rooms.
+
+Completed detailed documentation of my personal Proxmox cybersecurity home lab.
+
+Published the home lab repository publicly on GitHub.
+
+Documented the lab architecture, tools, configuration challenges, troubleshooting, and lessons learned.
+
+Prepared for Module 2 of my cybersecurity course: Windows, Linux and Scripting Foundations, starting tomorrow.
+
+
+Reflection: Today was a good reminder that documenting projects is an important part of learning. It helps me review what I've built, organize my knowledge, and share my progress with others.
