@@ -411,10 +411,10 @@ Reached an important milestone in my hands-on cybersecurity learning journey
 Key takeaway: After weeks of building and troubleshooting my home lab, I can finally focus on practicing offensive and defensive security techniques in a controlled environment.
 
 
-Day 24 — October 24, 2026
+# Day 24 — October 24, 2026
 
 
-Focus: TryHackMe Practice, Home Lab Documentation & GitHub
+## Focus: TryHackMe Practice, Home Lab Documentation & GitHub
 
 Continued hands-on cybersecurity practice through TryHackMe rooms.
 
