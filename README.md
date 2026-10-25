@@ -428,3 +428,26 @@ Prepared for Module 2 of my cybersecurity course: Windows, Linux and Scripting F
 
 
 Reflection: Today was a good reminder that documenting projects is an important part of learning. It helps me review what I've built, organize my knowledge, and share my progress with others.
+
+
+# Day 25 — October 25, 2026
+
+
+## Focus: Computer Hardware, Server Fundamentals & TryHackMe
+
+Started Module 2: Windows, Linux and Scripting Foundations.
+
+Studied computer hardware components and their functions.
+
+Learned how CPUs, RAM, storage, motherboards, and other components work together.
+
+Explored different types of servers and their purposes.
+
+Studied server hardware and why servers may use multiple CPUs, drives, power supplies, and network interfaces.
+
+Learned about hardware redundancy, reliability, and availability.
+
+Continued hands-on cybersecurity practice through TryHackMe rooms.
+
+
+Reflection: Understanding the hardware and infrastructure behind IT systems is an important part of cybersecurity. Today's lessons helped me strengthen those fundamentals before moving deeper into operating systems and scripting.
