@@ -451,3 +451,26 @@ Continued hands-on cybersecurity practice through TryHackMe rooms.
 
 
 Reflection: Understanding the hardware and infrastructure behind IT systems is an important part of cybersecurity. Today's lessons helped me strengthen those fundamentals before moving deeper into operating systems and scripting.
+
+
+# Day 26 — October 26, 2026
+
+Today I focused on learning the basics of virtualization and how it is used to run different operating systems and environments on the same physical machine.
+
+
+## What I learned:
+
+The difference between Type 1 and Type 2 hypervisors
+
+How virtual machines work
+
+The basics of containers and how they differ from virtual machines
+
+Virtualization using Proxmox and Oracle VirtualBox
+
+The basic process of creating a virtual machine
+
+
+I also attended an online class where we discussed virtualization and reviewed previous topics about computer hardware and servers, with additional examples.
+
+It was a lighter study day, giving me some time to review the fundamentals and better understand the technologies I'll be working with throughout my cybersecurity journey.
