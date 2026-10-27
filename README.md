@@ -474,3 +474,30 @@ The basic process of creating a virtual machine
 I also attended an online class where we discussed virtualization and reviewed previous topics about computer hardware and servers, with additional examples.
 
 It was a lighter study day, giving me some time to review the fundamentals and better understand the technologies I'll be working with throughout my cybersecurity journey.
+
+
+# Day 27 — October 27, 2026
+
+Today I continued learning about Windows and Linux, focusing on how operating systems work and the differences between them.
+
+
+## Topics covered:
+
+What an operating system (OS) is and what the kernel does
+
+Linux distributions and how they differ from Windows
+
+Windows Server and its common use cases
+
+Processes and services
+
+System monitoring and troubleshooting
+
+Using Task Manager, Event Viewer, and Performance Monitor to inspect system activity and identify potential issues
+
+Using Hyper-V to create and manage virtual machines
+
+I also practiced through TryHackMe rooms.
+
+
+Today's topics helped me better understand the operating systems and monitoring tools used in everyday IT administration. These fundamentals are important for cybersecurity because understanding normal system behavior makes it easier to investigate problems and recognize suspicious activity.
