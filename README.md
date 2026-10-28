@@ -501,3 +501,37 @@ I also practiced through TryHackMe rooms.
 
 
 Today's topics helped me better understand the operating systems and monitoring tools used in everyday IT administration. These fundamentals are important for cybersecurity because understanding normal system behavior makes it easier to investigate problems and recognize suspicious activity.
+
+
+# Day 28 — October 28, 2026
+
+Today I focused on Windows administrative tools, user account management, and the security mechanisms Windows uses to control access to system resources.
+
+
+## Topics covered:
+
+Microsoft Management Console (MMC) and Computer Management
+
+Windows user account management and administrative tools
+
+Security principals and Security Identifiers (SIDs)
+
+Access tokens and securable objects
+
+The role of the Security Accounts Manager (SAM) and Local Security Authority Subsystem Service (LSASS)
+
+User Account Control (UAC) and Mandatory Integrity Control (MIC)
+
+Layers of Windows security protection
+
+The principle of least privilege in practice
+
+Security tiering and auditing
+
+
+I reinforced the theory by exploring the relevant administrative tools and security settings in my Proxmox-based cybersecurity home lab. This helped me become more familiar with the actual Windows interfaces and where these tools can be accessed.
+
+I also continued practicing through TryHackMe rooms.
+
+
+Today's work helped me better understand how Windows manages identities, permissions, and access, as well as how different security mechanisms work together to protect a system.
