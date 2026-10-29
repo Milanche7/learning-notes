@@ -144,7 +144,29 @@ The CIA Triad: Confidentiality, Integrity, and Availability
 
 Why the CIA Triad is important for protecting information and systems
 
+Day 29 — October 29, 2026
 
+Today I focused on Windows backup, recovery, and data protection features.
+
+Topics covered:
+
+    File History and how it helps preserve previous versions of files
+
+    OneDrive and its role in storing and syncing files
+
+    BitLocker and how full-volume encryption helps protect data
+
+    System Restore and other Windows recovery options
+
+    Best practices for storing and protecting backup drives
+
+I also continued working on Assignment 02, based on the lessons from Module 2. The assignment focuses on examining my own systems, collecting basic system information, reviewing Windows events, inspecting user accounts and groups, and checking security configurations such as BitLocker.
+
+Alongside my coursework, I practiced through TryHackMe rooms and completed my first practical exercise in my Proxmox cybersecurity home lab.
+
+The exercise focuses on network reconnaissance and IDS detection. Completing it was a useful step toward using the lab for hands-on practice rather than just configuring the environment.
+
+I'm continuing to build my practical skills while documenting what I learn along the way.
 # Day 9 — October 9, 2026
 
 
@@ -535,3 +557,29 @@ I also continued practicing through TryHackMe rooms.
 
 
 Today's work helped me better understand how Windows manages identities, permissions, and access, as well as how different security mechanisms work together to protect a system.
+
+
+# Day 29 — October 29, 2026
+
+Today I focused on Windows backup, recovery, and data protection features.
+
+
+## Topics covered:
+
+File History and how it helps preserve previous versions of files
+
+OneDrive and its role in storing and syncing files
+
+BitLocker and how full-volume encryption helps protect data
+
+System Restore and other Windows recovery options
+
+Best practices for storing and protecting backup drives
+
+
+I also continued working on Assignment 02, based on the lessons from Module 2. The assignment focuses on examining my own systems, collecting basic system information, reviewing Windows events, inspecting user accounts and groups, and checking security configurations such as BitLocker.
+
+Alongside my coursework, I practiced through TryHackMe rooms and completed my first practical exercise in my Proxmox cybersecurity home lab.
+
+The exercise focuses on network reconnaissance and IDS detection. Completing it was a useful step toward using the lab for hands-on practice rather than just configuring the environment.
+
