@@ -583,3 +583,25 @@ Alongside my coursework, I practiced through TryHackMe rooms and completed my fi
 
 The exercise focuses on network reconnaissance and IDS detection. Completing it was a useful step toward using the lab for hands-on practice rather than just configuring the environment.
 
+
+# Day 30 — October 30, 2026
+
+Today I successfully completed Assignment 02, based on the topics covered throughout Module 2.
+
+The assignment involved examining and analyzing my own systems using the concepts and tools I had been learning. I'll be preparing the documentation and publishing the completed work on GitHub soon.
+
+
+## Other activities today:
+
+Practiced cybersecurity skills through TryHackMe rooms
+
+Attended a live class focused on Module 2 and discussed topics related to my second assignment
+
+Reviewed and repeated my first practical exercise in the Proxmox cybersecurity home lab, focused on network reconnaissance and IDS detection
+
+
+
+Completing this assignment gave me an opportunity to bring together several topics from the module and apply them to a real system.
+
+I'm also continuing to revisit my lab exercises to reinforce what I've learned and become more comfortable with the practical side of cybersecurity.
+
