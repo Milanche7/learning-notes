@@ -605,3 +605,23 @@ Completing this assignment gave me an opportunity to bring together several topi
 
 I'm also continuing to revisit my lab exercises to reinforce what I've learned and become more comfortable with the practical side of cybersecurity.
 
+
+# Day 31 — October 31, 2026
+
+Today I focused on learning the basics of the Linux command line.
+
+
+## Topics covered:
+
+Basic Linux commands and their purpose
+
+How to use commands in the terminal
+
+Navigating and working with the Linux filesystem
+
+Getting more comfortable with command-line interaction
+
+## I also practiced through TryHackMe rooms and started working on Exercise 02 in my Proxmox-based cybersecurity home lab.
+
+I'm continuing to build my Linux fundamentals while using my home lab to turn what I learn into practical exercises.
+
