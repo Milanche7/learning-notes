@@ -238,7 +238,23 @@ Taking a lighter study day to rest and recharge
 
 
 # Day 13 — October 13, 2026
+Day 31 — October 31, 2026
 
+Today I focused on learning the basics of the Linux command line.
+
+Topics covered:
+
+    Basic Linux commands and their purpose
+
+    How to use commands in the terminal
+
+    Navigating and working with the Linux filesystem
+
+    Getting more comfortable with command-line interaction
+
+I also practiced through TryHackMe rooms and started working on Exercise 02 in my Proxmox-based cybersecurity home lab.
+
+I'm continuing to build my Linux fundamentals while using my home lab to turn what I learn into practical exercises.
 
 ## Today I focused on:
 
@@ -345,7 +361,23 @@ Practicing cybersecurity skills through TryHackMe rooms
 
 
 ## Today I focused on:
+Day 31 — October 31, 2026
 
+Today I focused on learning the basics of the Linux command line.
+
+Topics covered:
+
+    Basic Linux commands and their purpose
+
+    How to use commands in the terminal
+
+    Navigating and working with the Linux filesystem
+
+    Getting more comfortable with command-line interaction
+
+I also practiced through TryHackMe rooms and started working on Exercise 02 in my Proxmox-based cybersecurity home lab.
+
+I'm continuing to build my Linux fundamentals while using my home lab to turn what I learn into practical exercises.
 Continuing work on my Proxmox cybersecurity home lab
 
 Practicing cybersecurity skills through TryHackMe rooms
@@ -621,7 +653,8 @@ Navigating and working with the Linux filesystem
 
 Getting more comfortable with command-line interaction
 
-## I also practiced through TryHackMe rooms and started working on Exercise 02 in my Proxmox-based cybersecurity home lab.
+
+I also practiced through TryHackMe rooms and started working on Exercise 02 in my Proxmox-based cybersecurity home lab.
 
 I'm continuing to build my Linux fundamentals while using my home lab to turn what I learn into practical exercises.
 
