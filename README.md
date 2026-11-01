@@ -658,3 +658,39 @@ I also practiced through TryHackMe rooms and started working on Exercise 02 in m
 
 I'm continuing to build my Linux fundamentals while using my home lab to turn what I learn into practical exercises.
 
+
+# Day 32 — November 1, 2026
+
+
+Today marks one month since I started my cybersecurity learning journey!
+
+It's been a productive first month, with plenty of new concepts, hands-on practice, two completed course assignments, and the development of my own Proxmox-based cybersecurity home lab. There's still a lot ahead, but I'm happy with the progress so far.
+
+Today's focus was on Linux system monitoring, log analysis, and basic troubleshooting.
+
+
+## Topics covered:
+
+Monitoring Linux systems and checking their current state
+
+Understanding and analyzing system logs
+
+Using Linux commands to inspect logs and investigate system activity
+
+Basic Linux troubleshooting and identifying potential system issues
+
+Understanding what information to look for when diagnosing problems
+
+## Other activities:
+
+Practiced through TryHackMe rooms
+
+Completed Exercise 02 in my Proxmox cybersecurity home lab — documentation will be published soon
+
+Published the GitHub repository for Assignment 02, based on the topics covered in Module 2 
+
+
+One month of learning is behind me, but there is still so much more to explore, practice, and improve.
+
+This is only the beginning.
+
