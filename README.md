@@ -711,7 +711,7 @@ Variables and strings
 
 Loops and their basic functionality
 
-I also practiced through TryHackMe rooms and attended a live class focused on Module 3, covering Linux monitoring and troubleshooting.
+I also practiced through TryHackMe rooms and attended a live class focused on Module 3, covering Linux Fundamentals and troubleshooting.
 
 
 ### I'm continuing to build my technical foundations while gaining practical experience through TryHackMe and my own home lab.
