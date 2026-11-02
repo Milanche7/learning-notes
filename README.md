@@ -694,3 +694,26 @@ One month of learning is behind me, but there is still so much more to explore, 
 
 This is only the beginning.
 
+
+# Day 33 — November 2, 2026
+
+Today I started learning the fundamentals of scripting in cybersecurity, focusing on what scripting is, why it is useful, and how it can help automate tasks and work with data.
+
+## Topics covered:
+
+The purpose of scripting in cybersecurity
+
+Input and output
+
+Data processing
+
+Variables and strings
+
+Loops and their basic functionality
+
+I also practiced through TryHackMe rooms and attended a live class focused on Module 3, covering Linux monitoring and troubleshooting.
+
+
+## I'm continuing to build my technical foundations while gaining practical experience through TryHackMe and my own home lab.
+
+
