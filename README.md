@@ -699,6 +699,7 @@ This is only the beginning.
 
 Today I started learning the fundamentals of scripting in cybersecurity, focusing on what scripting is, why it is useful, and how it can help automate tasks and work with data.
 
+
 ## Topics covered:
 
 The purpose of scripting in cybersecurity
@@ -715,5 +716,30 @@ I also practiced through TryHackMe rooms and attended a live class focused on Mo
 
 
 ### I'm continuing to build my technical foundations while gaining practical experience through TryHackMe and my own home lab.
+
+
+# Day 34 — November 3, 2026
+
+Today I continued learning about scripting, with a focus on Bash and its use in cybersecurity.
+
+
+## Topics covered:
+
+Introduction to Bash scripting
+
+What Bash scripting is and why it is useful
+
+Common use cases in cybersecurity and Linux administration
+
+Basic scripting terminology and concepts
+
+How scripting can help automate repetitive tasks
+
+The role of automation in making everyday tasks more efficient
+
+
+### I also practiced through TryHackMe rooms and spent some additional time reviewing Exercise 02 from my Proxmox-based cybersecurity home lab.
+
+I'm still building my scripting fundamentals, but understanding how Bash can be used for automation is an important step toward becoming more comfortable working with Linux systems and cybersecurity tools.
 
 
