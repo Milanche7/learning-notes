@@ -760,7 +760,8 @@ Common use cases and practical examples
 How PowerShell can help with administration and automation
 
 
-Over the past few days, I've been learning both Bash and PowerShell scripting. Some of these topics are more challenging than what I've studied before, but I'm taking my time to understand the fundamentals properly.
+
+### Over the past few days, I've been learning both Bash and PowerShell scripting. Some of these topics are more challenging than what I've studied before, but I'm taking my time to understand the fundamentals properly.
 
 I also practiced through TryHackMe rooms and spent more time reviewing Exercise 02 from my Proxmox cybersecurity home lab. This time, I was able to fully understand the work I had done and the purpose behind the exercise.
 
