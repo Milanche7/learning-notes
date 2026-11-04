@@ -743,3 +743,28 @@ The role of automation in making everyday tasks more efficient
 I'm still building my scripting fundamentals, but understanding how Bash can be used for automation is an important step toward becoming more comfortable working with Linux systems and cybersecurity tools.
 
 
+# Day 35 — November 4, 2026
+
+Today I focused on the basics of PowerShell scripting and its use in cybersecurity and Windows administration.
+
+## Topics covered:
+
+Introduction to PowerShell scripting
+
+What PowerShell is used for
+
+Basic PowerShell commands
+
+Common use cases and practical examples
+
+How PowerShell can help with administration and automation
+
+
+Over the past few days, I've been learning both Bash and PowerShell scripting. Some of these topics are more challenging than what I've studied before, but I'm taking my time to understand the fundamentals properly.
+
+I also practiced through TryHackMe rooms and spent more time reviewing Exercise 02 from my Proxmox cybersecurity home lab. This time, I was able to fully understand the work I had done and the purpose behind the exercise.
+
+Not everything will be easy, and I don't expect to understand every new concept immediately. What matters is staying consistent, practicing, and making an effort to improve every day.
+
+
+
