@@ -768,4 +768,19 @@ I also practiced through TryHackMe rooms and spent more time reviewing Exercise 
 Not everything will be easy, and I don't expect to understand every new concept immediately. What matters is staying consistent, practicing, and making an effort to improve every day.
 
 
+# Day 36 — November 5, 2026
+
+
+Today I completed a course assignment focused on PowerShell scripting.
+
+The task involved analyzing a computer using PowerShell and automating the process with a script.
+
+It was challenging, but I managed to complete it with persistence and guidance. I still have a lot to learn about PowerShell, but this assignment helped me understand the basics much better.
+
+I also practiced through TryHackMe rooms.
+
+
+##Assignment documentation will be published on here soon.
+
+
 
