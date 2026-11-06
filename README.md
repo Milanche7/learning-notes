@@ -783,4 +783,14 @@ I also practiced through TryHackMe rooms.
 ## Assignment documentation will be published on here soon.
 
 
+# Day 37 — November 6, 2026
+
+
+Today I reviewed Module 2 — Windows, Linux and Scripting Foundations — and collected the most important topics into my own notes for further revision.
+
+I also practiced through TryHackMe rooms and attended a live class where we used a Windows VM to practice basic PowerShell commands and discussed Linux fundamentals.
+
+Over the next few days, I'll focus on reviewing and strengthening what I've learned.
+
+
 
