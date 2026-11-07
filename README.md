@@ -793,4 +793,14 @@ I also practiced through TryHackMe rooms and attended a live class where we used
 Over the next few days, I'll focus on reviewing and strengthening what I've learned.
 
 
+# Day 38 — November 7, 2026
+
+
+Today I reviewed Windows fundamentals, practiced basic commands and short PowerShell scripts, and went over tools like Event Viewer, Task Scheduler, and Task Manager.
+
+I also completed Exercise 03 in my Proxmox home lab, focused on identifying and exploiting a vulnerability in a controlled environment.
+
+Continued practicing through TryHackMe rooms.
+
+
 
