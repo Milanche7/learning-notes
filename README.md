@@ -803,4 +803,14 @@ I also completed Exercise 03 in my Proxmox home lab, focused on identifying and 
 Continued practicing through TryHackMe rooms.
 
 
+# Day 39 — November 8, 2026
+
+
+Today I reviewed Linux fundamentals, including commands, processes, log monitoring, and troubleshooting.
+
+I also practiced through TryHackMe rooms and published the documentation for Exercise 03 from my Proxmox cybersecurity home lab on GitHub.
+
+Documenting the exercise also helped me review and reinforce what I had learned.
+
+
 
