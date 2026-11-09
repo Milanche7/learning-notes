@@ -813,4 +813,14 @@ I also practiced through TryHackMe rooms and published the documentation for Exe
 Documenting the exercise also helped me review and reinforce what I had learned.
 
 
+# Day 40 — November 9, 2026
+
+
+Today I reviewed Linux and general troubleshooting, virtualization, and physical server hardware.
+
+I also went through Exercise 03 from my Proxmox home lab again and now have a much better understanding of the entire process.
+
+Additionally, I practiced through TryHackMe rooms and attended a live class focused on Linux.
+
+
 
