@@ -823,4 +823,10 @@ I also went through Exercise 03 from my Proxmox home lab again and now have a mu
 Additionally, I practiced through TryHackMe rooms and attended a live class focused on Linux.
 
 
+# Day 41 — November 10, 2026
+
+Today I reviewed Bash and PowerShell scripting, practiced through TryHackMe rooms, and started working on Exercise 04 in my Proxmox cybersecurity home lab.
+
+More details and documentation about the new exercise coming soon.
+
 
