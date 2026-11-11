@@ -825,8 +825,19 @@ Additionally, I practiced through TryHackMe rooms and attended a live class focu
 
 # Day 41 — November 10, 2026
 
+
 Today I reviewed Bash and PowerShell scripting, practiced through TryHackMe rooms, and started working on Exercise 04 in my Proxmox cybersecurity home lab.
 
 More details and documentation about the new exercise coming soon.
+
+
+# Day 42 — November 11, 2026
+
+
+Today I reviewed Bash and PowerShell scripting, practiced through TryHackMe rooms, and continued working on Exercise 04 in my Proxmox home lab.
+
+I encountered several difficulties, especially with scripting and the current lab exercise. Some issues are still unresolved.
+
+Not every day goes smoothly, but these challenges are part of the learning process. I'll keep working on them and try again.
 
 
