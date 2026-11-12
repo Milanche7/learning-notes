@@ -841,3 +841,13 @@ I encountered several difficulties, especially with scripting and the current la
 Not every day goes smoothly, but these challenges are part of the learning process. I'll keep working on them and try again.
 
 
+# Day 43 — November 12, 2026
+
+
+Today I continued reviewing Bash and PowerShell scripting. It's still challenging, but I'm slowly making progress.
+
+I also practiced through TryHackMe rooms and successfully completed Exercise 04 in my Proxmox cybersecurity home lab. Documentation coming soon!
+
+Yesterday was difficult, but today was better. A reminder that low days are part of the learning process. The important thing is to keep going.
+
+
