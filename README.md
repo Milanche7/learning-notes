@@ -851,3 +851,11 @@ I also practiced through TryHackMe rooms and successfully completed Exercise 04 
 Yesterday was difficult, but today was better. A reminder that low days are part of the learning process. The important thing is to keep going.
 
 
+# Day 44 — November 13, 2026
+
+
+Today I completed practice tests based on the topics I had been reviewing over the past few days.
+
+I also practiced through TryHackMe rooms and documented Exercise 04 from my Proxmox home lab, using the process to review what I had learned.
+
+
