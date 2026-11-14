@@ -859,3 +859,11 @@ Today I completed practice tests based on the topics I had been reviewing over t
 I also practiced through TryHackMe rooms and documented Exercise 04 from my Proxmox home lab, using the process to review what I had learned.
 
 
+# Day 45 — November 14, 2026
+
+
+Today I completed more practice tests, worked on TryHackMe rooms, and started Exercise 05 in my Proxmox home lab, focused on Active Directory.
+
+Tomorrow I'll begin Course 3, which covers networking.
+
+
