@@ -867,3 +867,12 @@ Today I completed more practice tests, worked on TryHackMe rooms, and started Ex
 Tomorrow I'll begin Course 3, which covers networking.
 
 
+# Day 46 — November 15, 2026
+
+Today I practiced through TryHackMe rooms and CTF challenges, resolved the remaining issues in Exercise 05 (Active Directory) in my Proxmox home lab, and attended an online lecture about Purple Teaming fundamentals.
+
+I haven't received access to Course 3 (Networking) yet, so I'll continue with practical work in the meantime.
+
+Exercise 05 documentation coming soon!
+
+
