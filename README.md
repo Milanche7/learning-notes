@@ -876,3 +876,16 @@ I haven't received access to Course 3 (Networking) yet, so I'll continue with pr
 Exercise 05 documentation coming soon!
 
 
+# Day 47 — November 16, 2026
+
+
+## Started Course 3 — Networking Fundamentals.
+
+
+Today's topics included the OSI model, TCP/IP model, network ports, and the basics of network communication.
+
+I also practiced through TryHackMe rooms and published the documentation for Exercise 05 from my Proxmox home lab on GitHub.
+
+Additionally, I attended an online class focused on networking fundamentals.
+
+
