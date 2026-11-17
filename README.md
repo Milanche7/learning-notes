@@ -889,3 +889,12 @@ I also practiced through TryHackMe rooms and published the documentation for Exe
 Additionally, I attended an online class focused on networking fundamentals.
 
 
+# Day 48 — November 17, 2026
+
+Continued learning networking fundamentals: network types, switches, topologies, and switching methods.
+
+Also practiced through TryHackMe rooms and attended a live class focused on Linux scripting.
+
+Milestone: Completed Course 2 Fully — Windows, Linux and Scripting Foundations.
+
+
