@@ -898,3 +898,13 @@ Also practiced through TryHackMe rooms and attended a live class focused on Linu
 Milestone: Completed Course 2 Fully — Windows, Linux and Scripting Foundations.
 
 
+# Day 49 — November 18, 2026
+
+
+Today I learned about network equipment, including hubs, switches, NICs, routers, Layer 3 switches, and firewalls.
+
+I also studied wireless networks and the basics of how Wi-Fi works.
+
+Additionally, I practiced through TryHackMe rooms, reviewed Exercise 05 from my Proxmox home lab, and started thinking about ideas for the next exercise.
+
+
