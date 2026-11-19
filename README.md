@@ -908,3 +908,13 @@ I also studied wireless networks and the basics of how Wi-Fi works.
 Additionally, I practiced through TryHackMe rooms, reviewed Exercise 05 from my Proxmox home lab, and started thinking about ideas for the next exercise.
 
 
+# Day 50 — November 19, 2026
+
+
+Studied IPv4, IPv6, DNS, DHCP, NDP, and DHCPv6.
+
+Also practiced through TryHackMe rooms and started working on Exercise 06 — Phishing Email Investigation.
+
+GitHub documentation coming soon!
+
+
