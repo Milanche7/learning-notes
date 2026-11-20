@@ -918,3 +918,12 @@ Also practiced through TryHackMe rooms and started working on Exercise 06 — Ph
 GitHub documentation coming soon!
 
 
+# Day 51 — November 20, 2026
+
+
+Today I studied DNS and DHCP in more detail, focusing on their purpose and how they work.
+
+I also practiced through TryHackMe rooms and completed Exercise 06 — Phishing Email Investigation
+
+
+
