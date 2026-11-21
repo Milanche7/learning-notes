@@ -926,4 +926,12 @@ Today I studied DNS and DHCP in more detail, focusing on their purpose and how t
 I also practiced through TryHackMe rooms and completed Exercise 06 — Phishing Email Investigation
 
 
+# Day 52 — November 21, 2026
+
+
+Studied firewalls and network troubleshooting, focusing on their purpose and what to check when diagnosing network issues.
+
+Also practiced through TryHackMe rooms and started Exercise 07 in my Proxmox home lab. Encountered some initial problems and started working on resolving them.
+
+
 
