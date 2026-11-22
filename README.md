@@ -933,5 +933,15 @@ Studied firewalls and network troubleshooting, focusing on their purpose and wha
 
 Also practiced through TryHackMe rooms and started Exercise 07 in my Proxmox home lab. Encountered some initial problems and started working on resolving them.
 
+Studied networking security fundamentals, client-server systems, and virtualization security.
 
+Also practiced through TryHackMe rooms and resolved the issue that was blocking Exercise 07 — Linux SSH Brute-Force Detection in my Proxmox home lab. I can now continue with the exercise.
+
+
+# Day 53 — November 22, 2026
+
+
+Studied networking security fundamentals, client-server systems, and virtualization security.
+
+Also practiced through TryHackMe rooms and resolved the issue that was blocking Exercise 07 — Linux SSH Brute-Force Detection in my Proxmox home lab. I can now continue with the exercise.
 
