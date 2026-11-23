@@ -945,3 +945,10 @@ Studied networking security fundamentals, client-server systems, and virtualizat
 
 Also practiced through TryHackMe rooms and resolved the issue that was blocking Exercise 07 — Linux SSH Brute-Force Detection in my Proxmox home lab. I can now continue with the exercise.
 
+
+# Day 54 — November 23, 2026
+
+Continued practicing on TryHackMe and working on Exercise 07 — Linux SSH Brute-Force Detection. Resolved the previous issue and continued with the exercise.
+
+Attended a live networking class covering DNS, DHCP, firewalls, and network diagnostic tools. Documentation for Exercise 07 will follow after completion.
+
