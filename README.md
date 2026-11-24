@@ -952,3 +952,13 @@ Continued practicing on TryHackMe and working on Exercise 07 — Linux SSH Brute
 
 Attended a live networking class covering DNS, DHCP, firewalls, and network diagnostic tools. Documentation for Exercise 07 will follow after completion.
 
+
+# Day 55 — November 24, 2026
+
+
+Worked on the Network Troubleshooting and Security course assignment, investigating a company's network problems through a step-by-step troubleshooting process.
+
+Completed Exercise 07 — Linux SSH Brute-Force Detection in my home lab and practiced on TryHackMe.
+
+Documentation for both tasks is coming soon.
+
