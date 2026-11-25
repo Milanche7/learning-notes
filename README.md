@@ -962,3 +962,15 @@ Completed Exercise 07 — Linux SSH Brute-Force Detection in my home lab and pra
 
 Documentation for both tasks is coming soon.
 
+
+# Day 56 — November 25, 2026
+
+
+Completed the Network Troubleshooting and Security assignment.
+
+Published the documentation for Exercise 07 — Linux SSH Brute-Force Detection.
+
+Practiced through TryHackMe rooms.
+
+Assignment documentation coming soon.
+
