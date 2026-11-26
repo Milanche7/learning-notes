@@ -974,3 +974,13 @@ Practiced through TryHackMe rooms.
 
 Assignment documentation coming soon.
 
+
+# Day 57 — November 26, 2026
+
+
+Practiced through TryHackMe rooms.
+
+Reviewed networking topics and completed practice tests.
+
+Explored ideas for the next Proxmox cybersecurity home lab exercise.
+
