@@ -984,3 +984,15 @@ Reviewed networking topics and completed practice tests.
 
 Explored ideas for the next Proxmox cybersecurity home lab exercise.
 
+
+# Day 58 — November 27, 2026
+
+
+Practiced through TryHackMe rooms.
+
+Reviewed networking topics and completed practice tests.
+
+Documented and published the Network Troubleshooting and Security assignment on GitHub.
+
+Planned the next Proxmox home lab exercise — Exercise 08.
+
