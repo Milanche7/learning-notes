@@ -996,3 +996,16 @@ Documented and published the Network Troubleshooting and Security assignment on 
 
 Planned the next Proxmox home lab exercise — Exercise 08.
 
+
+# Day 59 — November 28, 2026
+
+
+Reviewed networking topics and completed practice tests.
+
+Practiced through TryHackMe rooms.
+
+Started **Exercise 08 — Windows Endpoint Incident Investigation**, investigating suspicious PowerShell activity on a Windows endpoint.
+
+Preparing to start Course 4 tomorrow.
+
+
